@@ -37,7 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charming0420&show_icons=true&locale=en&layout=compact" alt="charming0420" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charming0420&show_icons=true&locale=en" alt="charming0420" /></p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charming0420&count_private=true&show_icons=true&theme=tokyonight)
-
